@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Cwe0c6KRNEucj9I6gzfPwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="42865bb2-73d8-471e-b65c-85e346d1fce8" CvElementArea="602, 872, 149, 51" CvTextArea="640, 887, 71, 17" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="604, 874, 145, 45" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="d2ca225b-c1ba-4ab3-b332-2f2b77dca5eb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="42865bb2-73d8-471e-b65c-85e346d1fce8" CvTextArea="32, 311, 289, 45" CvTextArgument="RPA Challenge" CvType="Text" DesignTimeRectangle="9, 291, 311, 80" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='brand-logo' aaname='RPA Challenge' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='RPA Challenge' /&gt;" Guid="36fed747-e802-4de7-a354-b123e5c3fd21" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="2" Y="6" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="e107bdd553eb8cf7042ff23af99d5640.png" xmlns="">0ye9etqWpBk2ScwKrVDv6nQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

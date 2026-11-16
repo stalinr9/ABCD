@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DIWPK9815G",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wABnLEtCHEmGSqDIKPvvNQ",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/wABnLEtCHEmGSqDIKPvvNQ",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/-RMY-JRNDUidYKbX0S7zgA",
+  "Created": "2026-06-02T08:48:24.5175795Z",
+  "Updated": "2026-06-02T08:48:24.5175795Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

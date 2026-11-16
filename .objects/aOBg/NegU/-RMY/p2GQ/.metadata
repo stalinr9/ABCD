@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ACTIVE",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "p2GQf2IOiEC8bw699kFHpA",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/p2GQf2IOiEC8bw699kFHpA",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/-RMY-JRNDUidYKbX0S7zgA",
+  "Created": "2026-06-02T08:48:24.3397516Z",
+  "Updated": "2026-06-02T08:48:24.3397516Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

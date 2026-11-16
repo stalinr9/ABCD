@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6lXnCKsDV0uVlgTwcl57Cw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" DesignTimeRectangle="200, 349, 409, 298" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='inventory_item_description' parentid='inventory_container' tag='DIV' /&gt;" Guid="9795a0ca-2050-4163-8c7b-9ba661532653" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ad7f1587b9cd3b2ae1eac6d04b733ca3.jpg" xmlns="">0QslJDRDTcE20mEvLMYF8Kw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

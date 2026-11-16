@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TwAOV87QNk2Rhi_ye3VS5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/ActiveLoans" CVScreenId="ae7d8c07-92dd-4a23-bdba-274bc1ce2789" CvType="AnyWordGroup" DesignTimeRectangle="616, 447, 99, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" Guid="dc035e08-e141-45fc-8a04-c1ba26e9916a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='botsdna.com/ActiveLoans/' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c9e91c4ea2a430aeca1212c1248da164.png" xmlns="">058Brf1N9gUiy65AUyCo3gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x2zMfavRj0CRQq0aKXrmfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com" CVScreenId="90caaa83-e0f3-4f4c-8eef-781eb71a8812" CvElementArea="779, 354, 375, 46" CvType="InputBox" DesignTimeRectangle="787, 352, 365, 48" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='user-name' tag='INPUT' /&gt;" Guid="66c20412-166b-46ea-9e1d-4d6a73a80ed7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="90caaa83-e0f3-4f4c-8eef-781eb71a8812" CvTextArea="886, 212, 162, 34" CvTextArgument="Swag Labs" CvType="Text" DesignTimeRectangle="9, 160, 1920, 135" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='login_logo' parentid='root' tag='DIV' type='' aaname='Swag Labs' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Swag Labs' /&gt;" Guid="b6698179-125d-4028-87ed-9e097456f868" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6fe69496dc5aa63de740183eac2010fd.png" xmlns="">0w3e0SPuhIEGDDebAFLqrpA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

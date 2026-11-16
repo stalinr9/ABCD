@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Swag Labs",
+  "Type": "App",
+  "Id": "IxJRNKuN0k2gmbisQW8c6w",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/IxJRNKuN0k2gmbisQW8c6w",
+  "Created": "2026-07-08T02:41:07.0712132Z",
+  "Updated": "2026-07-08T02:41:07.0712132Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

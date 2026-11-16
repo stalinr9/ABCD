@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qekP9sn8uUyYEaDE6e8czQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" CVScreenId="f679004c-e6f4-44cb-9448-8a01e809cdee" CvElementArea="422, 344, 125, 51" CvTextArea="442, 361, 82, 18" CvTextArgument="No, thanks" CvType="Button" DesignTimeRectangle="425, 348, 121, 48" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Save password?' role='alert' /&gt;&lt;ctrl name='No, thanks' role='push button' /&gt;" Guid="471d0422-25bb-4227-b921-f3493434e816" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Save password?' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4b3731581666e3a680e24b962529f984.jpg" xmlns="">0LZ15YPs_5kOMgBnTEQihLQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

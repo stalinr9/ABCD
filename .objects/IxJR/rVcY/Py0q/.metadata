@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Swag Labs",
+  "Type": "Screen",
+  "Id": "Py0qGpq1okyQ3I2OFee-xw",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/Py0qGpq1okyQ3I2OFee-xw",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/rVcYfxrf-kapRtDN-I7JqA",
+  "Created": "2026-07-08T02:41:07.2158459Z",
+  "Updated": "2026-07-08T02:41:07.2158459Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

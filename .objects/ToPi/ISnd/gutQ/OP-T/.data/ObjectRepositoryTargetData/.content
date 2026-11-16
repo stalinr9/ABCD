@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RoZmcOPvNkqKUNWyV9N2YQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" CVScreenId="8fbbe778-e4a9-4632-ae93-789a3bfe7c25" CvElementArea="28, 172, 34, 30" CvType="Icon" DesignTimeRectangle="34, 176, 25, 25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='react-burger-menu-btn' tag='BUTTON' /&gt;" Guid="d6139a25-02c7-4236-98f3-3ae3ef57daaf" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACySURBVEhLY/hPB8CALkALQD9LFi5f/t83MpLqePGqlQhL1EyM/wsrK1Eda1laICzpmzYVwxXUwFPnzEZYQmswaglJAGzJ2QsX/ndOnEB1fO7iRYQlejbWGMmPGtjY0QFhSWRqCoYCauDE7GyEJbQGo5aQBMCWvHn79v+REyeojt+8e4ewxD04GCNlUAP7REQgLLH2cMdQQA3s4OuDsOTZixcYXqUGfvnqFcISWoNRS0gCAJFV/a6FAMl0AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2d55dcf98959f511b6d4af119f0f904e.jpg" xmlns="">0wONJbg7J3kS9RShIBWmF4Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

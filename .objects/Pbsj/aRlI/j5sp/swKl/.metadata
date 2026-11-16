@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Dashboard",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "swKllWW8Ckih3k6pOsZ1AQ",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/swKllWW8Ckih3k6pOsZ1AQ",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/j5spjAtob0SENMxfqS-FoA",
+  "Created": "2026-07-14T03:44:31.233543Z",
+  "Updated": "2026-07-14T03:44:31.233543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

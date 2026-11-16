@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Download IT Tax Returns",
+  "Type": "Screen",
+  "Id": "yZpGOC9LQEiTouKszI_p9g",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/yZpGOC9LQEiTouKszI_p9g",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/1-knWo6ma0mcILZhRVU8CQ",
+  "Created": "2026-07-30T02:39:27.5041908Z",
+  "Updated": "2026-07-30T02:39:27.5041908Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HgwZjGh7GkukxuKf3y1--A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/ActiveLoans" CVScreenId="f044e8a4-8940-4b71-a2af-d3a296e05151" CvTextArea="825, 366, 88, 25" CvTextArgument="input.xlsx" CvType="Text" DesignTimeRectangle="827, 366, 85, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='input.xlsx' tag='A' /&gt;" Guid="77f5c0f9-584b-4e1e-beef-f4b4a9894c92" ScopeSelectorArgument="&lt;html app='chrome.exe' title='botsdna.com/ActiveLoans/' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f044e8a4-8940-4b71-a2af-d3a296e05151" CvTextArea="844, 286, 228, 33" CvTextArgument="Active Loans" CvType="Text" DesignTimeRectangle="19, 281, 1881, 47" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='' aaname='Active Loans' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Active Loans' /&gt;" Guid="9af75099-0ad1-4125-8534-f3c54a68a6c5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0de1665de7cc19f04d836d7783cc504f.png" xmlns="">0BSOJ9Gqo8kKS9jfjStj4rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

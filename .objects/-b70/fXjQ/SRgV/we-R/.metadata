@@ -1,0 +1,14 @@
+﻿{
+  "Name": "input.xlsx",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "we-Rb-OGkkCoj3DQdS-iXg",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/we-Rb-OGkkCoj3DQdS-iXg",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/SRgVu2b4CEyr-J20mRBRNA",
+  "Created": "2026-06-02T08:23:36.4534864Z",
+  "Updated": "2026-06-02T08:23:36.4534864Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

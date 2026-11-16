@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome todays wheather - Google Search",
+  "Type": "App",
+  "Id": "T396WrUWMUGoSHF_BtRkzg",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/T396WrUWMUGoSHF_BtRkzg",
+  "Created": "2026-07-09T02:51:37.6950854Z",
+  "Updated": "2026-07-09T02:51:37.6950854Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4GD27lMOI06of_P_pi9j3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="6207f6c6-d537-4d79-a233-15eb2b9efe33" CvType="AnyWordGroup" DesignTimeRectangle="359, 507, 64, 75" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="5a48812b-1c23-42a4-9306-756483a6a343" ScopeSelectorArgument="&lt;html app='chrome.exe' title='todays wheather - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5c5eb4592c99cd85e522c2dfcc16adb7.jpg" xmlns="">0yZAv6J1fnUyPF_zHgcaDXg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome botsdna.comActiveLoans",
+  "Type": "Screen",
+  "Id": "SRgVu2b4CEyr-J20mRBRNA",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/SRgVu2b4CEyr-J20mRBRNA",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/fXjQlae_4ECgNghz6Y6MGw",
+  "Created": "2026-06-02T08:21:54.0068723Z",
+  "Updated": "2026-06-02T08:21:54.0068723Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

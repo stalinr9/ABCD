@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome todays wheather - Google Search",
+  "Type": "Screen",
+  "Id": "fdeEx4aEU0qAKg-dm1UjfQ",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/fdeEx4aEU0qAKg-dm1UjfQ",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/JIOc7BETLkKEFLWgJomeuw",
+  "Created": "2026-07-09T02:51:37.820669Z",
+  "Updated": "2026-07-09T02:51:37.820669Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

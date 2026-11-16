@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ACvUyVCRZEayOL-LdPoGaA" Reference="C_mgeTgSEUmUv7Va9dv1Ew/p2GQf2IOiEC8bw699kFHpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/ActiveLoans" CVScreenId="b9448ab2-3f12-432d-b625-706213a292b6" CvTextArea="615, 360, 77, 18" CvTextArgument="ACTIVE" CvType="Text" DesignTimeRectangle="615, 360, 77, 18" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='TR' innertext='*{0}*' /&gt;&lt;webctrl tag='TD' idx='1' /&gt;&quot;, LastFourDigit)]" Guid="ce9021e6-1ae9-46ac-88c7-532b873e387d" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='botsdna.com/ActiveLoans/ - Google Chrome' /&gt;" SearchSteps="Selector" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="b9448ab2-3f12-432d-b625-706213a292b6" CvTextArea="616, 331, 73, 18" CvTextArgument="STATUS" CvType="Text" DesignTimeRectangle="616, 331, 73, 18" ElementType="Text" Guid="a55768ca-ac3c-4bb3-b714-8b4fc7eb60c0" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="ecd3d77f010f9d6c27b66cdc0eee5341.png" xmlns="">0UX5zWmiinUeiOGllqIC5lQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="LastFourDigit" />
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

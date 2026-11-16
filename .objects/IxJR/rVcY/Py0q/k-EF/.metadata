@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Swag Labs",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "k-EFhr6eL0uElmfYAynKxQ",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/k-EFhr6eL0uElmfYAynKxQ",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/Py0qGpq1okyQ3I2OFee-xw",
+  "Created": "2026-07-08T02:43:46.0533286Z",
+  "Updated": "2026-07-08T02:43:46.0533286Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

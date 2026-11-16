@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Open Menu",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "OP-Tiv-IPE2HleKw7MobMw",
+  "Reference": "C_mgeTgSEUmUv7Va9dv1Ew/OP-Tiv-IPE2HleKw7MobMw",
+  "ParentRef": "C_mgeTgSEUmUv7Va9dv1Ew/gutQrdplhEemciO_9g-VPw",
+  "Created": "2026-07-08T03:12:10.6471241Z",
+  "Updated": "2026-07-08T03:12:10.6471241Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BpkwcAApXUSOlgetugz4eA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="botsdna.com/ActiveLoans" CVScreenId="b9448ab2-3f12-432d-b625-706213a292b6" CvTextArea="1170, 360, 123, 18" CvTextArgument="DIWPK9815G" CvType="Text" DesignTimeRectangle="1170, 360, 123, 18" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="65d1bc6e-db76-4332-9716-96fa0031410f" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='botsdna.com/ActiveLoans/ - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b9448ab2-3f12-432d-b625-706213a292b6" CvTextArea="1170, 331, 131, 18" CvTextArgument="PAN NUMBER" CvType="Text" DesignTimeRectangle="1170, 331, 131, 18" ElementType="Text" Guid="6f65bd85-fa0d-47ba-b7de-a908539d8420" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="4a4c4b6e61917dae255e1994282f8971.png" xmlns="">0w0edxfwWJ0OqLGqgSrC0Sg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

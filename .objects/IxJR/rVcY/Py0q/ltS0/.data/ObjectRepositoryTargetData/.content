@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g1vsr8gpX0e5E3ya7UT3sA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" CVScreenId="a9da3b38-265a-4335-a04a-cbbf8fe1af9a" CvTextArea="70, 282, 208, 25" CvTextArgument="Change your password" CvType="Text" DesignTimeRectangle="73, 278, 510, 31" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Change your password' role='dialog' /&gt;&lt;ctrl name='Change your password' role='grouping' /&gt;" Guid="9f579d95-22a7-42f6-8713-74ca44d259e5" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Swag Labs - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1cfb1a55e3d53f3803cbcce4eef0f957.jpg" xmlns="">0oU4kqAXYi0a76c4yssOmEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
